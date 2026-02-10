@@ -1,0 +1,26 @@
+name: Update README
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+        with:
+          TARGET_FILE: ./profile/README.md
+          MAX_LINES: 4
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add profile/README.md
+          git commit -m "update README repos" || echo "No changes"
+          git push
