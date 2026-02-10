@@ -16,7 +16,7 @@ const response = await fetch(url, {
   },
 }).then((r) => r.json());
 
-onst content =
+const content =
   `<ul>\n` +
   repos
     .map(
