@@ -9,7 +9,7 @@ if (!token) throw new Error("Missing token");
 
 const readme = fs.readFileSync(path, "utf8");
 
-const response = await fetch(url, {
+const repos = await fetch(url, {
   headers: {
     Authorization: `Bearer ${token}`,
     Accept: "application/vnd.github+json",
