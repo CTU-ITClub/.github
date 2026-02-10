@@ -29,9 +29,8 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 ---
 
 ## 📅 Hoạt động gần đây
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- START -->
+<!-- END -->
 
 ---
 
