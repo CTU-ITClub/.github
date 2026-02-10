@@ -16,12 +16,15 @@ const response = await fetch(url, {
   },
 }).then((r) => r.json());
 
-const content = response
-  .map(
-    (repo, i) =>
-      `- **${repo.name}** – cập nhật: ${timeAgo(repo.updated_at)}`
-  )
-  .join("<br/> ");
+onst content =
+  `<ul>\n` +
+  repos
+    .map(
+      r =>
+        `  <li><strong>${r.name}</strong> – cập nhật: ${timeAgo(r.updated_at)}</li>`
+    )
+    .join("\n") +
+  `\n</ul>`;
 
 const output = readme.replace(
   /<!-- START -->[\s\S]*?<!-- END -->/,
