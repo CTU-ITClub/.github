@@ -21,7 +21,7 @@ const content = response
     (repo, i) =>
       `- **${repo.name}** – cập nhật: ${timeAgo(repo.updated_at)}`
   )
-  .join("<br/>");
+  .join("<br/> ");
 
 const output = readme.replace(
   /<!-- START -->[\s\S]*?<!-- END -->/,
