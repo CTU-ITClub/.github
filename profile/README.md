@@ -31,8 +31,8 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 ## 📅 Hoạt động gần đây
 <!-- START -->
 <ul>
-  <li><strong>.github</strong> – cập nhật: 11 giờ trước</li>
-  <li><strong>Game_Tet_Unity_C-</strong> – cập nhật: 18 ngày trước</li>
+  <li><strong>.github</strong> – cập nhật: 6 giờ trước</li>
+  <li><strong>Game_Tet_Unity_C-</strong> – cập nhật: 19 ngày trước</li>
   <li><strong>build-first-web-html-css</strong> – cập nhật: 22 ngày trước</li>
   <li><strong>js-basic</strong> – cập nhật: 22 ngày trước</li>
 </ul>
