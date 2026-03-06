@@ -31,10 +31,10 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 ## 📅 Hoạt động gần đây
 <!-- START -->
 <ul>
-  <li><strong>Game_Tet_Unity_C_Sharp</strong> – cập nhật: 4 giờ trước</li>
   <li><strong>.github</strong> – cập nhật: 5 giờ trước</li>
-  <li><strong>build-first-web-html-css</strong> – cập nhật: 23 ngày trước</li>
-  <li><strong>js-basic</strong> – cập nhật: 23 ngày trước</li>
+  <li><strong>Game_Tet_Unity_C_Sharp</strong> – cập nhật: 10 giờ trước</li>
+  <li><strong>build-first-web-html-css</strong> – cập nhật: 24 ngày trước</li>
+  <li><strong>js-basic</strong> – cập nhật: 24 ngày trước</li>
 </ul>
 <!-- END -->
 
