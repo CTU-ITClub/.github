@@ -33,8 +33,8 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 <ul>
   <li><strong>.github</strong> – cập nhật: 5 giờ trước</li>
   <li><strong>Game_Tet_Unity_C_Sharp</strong> – cập nhật: 1 ngày trước</li>
-  <li><strong>build-first-web-html-css</strong> – cập nhật: 24 ngày trước</li>
-  <li><strong>js-basic</strong> – cập nhật: 24 ngày trước</li>
+  <li><strong>build-first-web-html-css</strong> – cập nhật: 25 ngày trước</li>
+  <li><strong>js-basic</strong> – cập nhật: 25 ngày trước</li>
 </ul>
 <!-- END -->
 
