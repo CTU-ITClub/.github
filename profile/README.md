@@ -31,8 +31,8 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 ## 📅 Hoạt động gần đây
 <!-- START -->
 <ul>
-  <li><strong>.github</strong> – cập nhật: 6 giờ trước</li>
-  <li><strong>game-ngay-hoi-tu-van-tuyen-sinh</strong> – cập nhật: 18 giờ trước</li>
+  <li><strong>.github</strong> – cập nhật: 5 giờ trước</li>
+  <li><strong>game-ngay-hoi-tu-van-tuyen-sinh</strong> – cập nhật: 1 ngày trước</li>
   <li><strong>Game_Tet_Unity_C_Sharp</strong> – cập nhật: 12 ngày trước</li>
   <li><strong>build-first-web-html-css</strong> – cập nhật: 1 tháng trước</li>
 </ul>
