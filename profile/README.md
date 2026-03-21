@@ -31,10 +31,10 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 ## 📅 Hoạt động gần đây
 <!-- START -->
 <ul>
+  <li><strong>flappy-pushups</strong> – cập nhật: 14 phút trước</li>
+  <li><strong>game-ngay-hoi-tu-van-tuyen-sinh</strong> – cập nhật: 4 giờ trước</li>
   <li><strong>.github</strong> – cập nhật: 5 giờ trước</li>
-  <li><strong>flappy-pushups</strong> – cập nhật: 12 giờ trước</li>
-  <li><strong>game-ngay-hoi-tu-van-tuyen-sinh</strong> – cập nhật: 3 ngày trước</li>
-  <li><strong>Game_Tet_Unity_C_Sharp</strong> – cập nhật: 14 ngày trước</li>
+  <li><strong>Game_Tet_Unity_C_Sharp</strong> – cập nhật: 15 ngày trước</li>
 </ul>
 <!-- END -->
 
