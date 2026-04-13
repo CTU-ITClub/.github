@@ -32,8 +32,8 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 <!-- START -->
 <ul>
   <li><strong>.github</strong> – cập nhật: 5 giờ trước</li>
-  <li><strong>flappy-pushups</strong> – cập nhật: 8 ngày trước</li>
-  <li><strong>flappy-pushups-web</strong> – cập nhật: 21 ngày trước</li>
+  <li><strong>flappy-pushups</strong> – cập nhật: 9 ngày trước</li>
+  <li><strong>flappy-pushups-web</strong> – cập nhật: 22 ngày trước</li>
   <li><strong>game-ngay-hoi-tu-van-tuyen-sinh</strong> – cập nhật: 22 ngày trước</li>
 </ul>
 <!-- END -->
