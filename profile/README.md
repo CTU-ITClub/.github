@@ -32,7 +32,7 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 <!-- START -->
 <ul>
   <li><strong>.github</strong> – cập nhật: 6 giờ trước</li>
-  <li><strong>Game_TuyenDuongXeTho</strong> – cập nhật: 9 giờ trước</li>
+  <li><strong>Game_TuyenDuongXeTho</strong> – cập nhật: 15 giờ trước</li>
   <li><strong>IT-Club-Web</strong> – cập nhật: 25 ngày trước</li>
   <li><strong>git-github-ghdesktop-ghactions</strong> – cập nhật: 1 tháng trước</li>
 </ul>
