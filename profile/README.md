@@ -31,10 +31,10 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 ## 📅 Hoạt động gần đây
 <!-- START -->
 <ul>
+  <li><strong>flappy-pushups-web</strong> – cập nhật: 6 giờ trước</li>
   <li><strong>.github</strong> – cập nhật: 7 giờ trước</li>
-  <li><strong>Game_TuyenDuongXeTho</strong> – cập nhật: 2 ngày trước</li>
+  <li><strong>Game_TuyenDuongXeTho</strong> – cập nhật: 3 ngày trước</li>
   <li><strong>IT-Club-Web</strong> – cập nhật: 29 ngày trước</li>
-  <li><strong>git-github-ghdesktop-ghactions</strong> – cập nhật: 1 tháng trước</li>
 </ul>
 <!-- END -->
 
