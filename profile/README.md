@@ -31,7 +31,7 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 ## 📅 Hoạt động gần đây
 <!-- START -->
 <ul>
-  <li><strong>.github</strong> – cập nhật: 5 giờ trước</li>
+  <li><strong>.github</strong> – cập nhật: 12 giờ trước</li>
   <li><strong>flappy-pushups-web</strong> – cập nhật: 9 ngày trước</li>
   <li><strong>Game_TuyenDuongXeTho</strong> – cập nhật: 12 ngày trước</li>
   <li><strong>IT-Club-Web</strong> – cập nhật: 1 tháng trước</li>
