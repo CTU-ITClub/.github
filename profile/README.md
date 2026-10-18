@@ -33,7 +33,7 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 <ul>
   <li><strong>.github</strong> – cập nhật: 4 giờ trước</li>
   <li><strong>IT-Club-Web</strong> – cập nhật: 2 ngày trước</li>
-  <li><strong>Game_TuyenDuongXeTho</strong> – cập nhật: 28 ngày trước</li>
+  <li><strong>Game_TuyenDuongXeTho</strong> – cập nhật: 29 ngày trước</li>
   <li><strong>flappy-pushups-web</strong> – cập nhật: 3 tháng trước</li>
 </ul>
 <!-- END -->
