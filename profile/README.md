@@ -31,9 +31,9 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 ## 📅 Hoạt động gần đây
 <!-- START -->
 <ul>
-  <li><strong>WebsiteTeam-ITClubWeb</strong> – cập nhật: 4 giờ trước</li>
-  <li><strong>.github</strong> – cập nhật: 5 giờ trước</li>
-  <li><strong>Workshop-Build-First-Web-HTML-CSS</strong> – cập nhật: 14 giờ trước</li>
+  <li><strong>.github</strong> – cập nhật: 4 giờ trước</li>
+  <li><strong>WebsiteTeam-ITClubWeb</strong> – cập nhật: 9 giờ trước</li>
+  <li><strong>Workshop-Build-First-Web-HTML-CSS</strong> – cập nhật: 18 giờ trước</li>
   <li><strong>Game_TuyenDuongXeTho</strong> – cập nhật: 1 tháng trước</li>
 </ul>
 <!-- END -->
