@@ -31,10 +31,10 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 ## 📅 Hoạt động gần đây
 <!-- START -->
 <ul>
-  <li><strong>.github</strong> – cập nhật: 10 giờ trước</li>
+  <li><strong>.github</strong> – cập nhật: 13 giờ trước</li>
   <li><strong>zalo-ai-challenge-2026-datamate</strong> – cập nhật: 1 ngày trước</li>
-  <li><strong>WorkShop-BuildFirstWebHTMLCSS</strong> – cập nhật: 1 ngày trước</li>
-  <li><strong>WorkShop-JsBasic</strong> – cập nhật: 1 ngày trước</li>
+  <li><strong>WorkShop-BuildFirstWebHTMLCSS</strong> – cập nhật: 2 ngày trước</li>
+  <li><strong>WorkShop-JsBasic</strong> – cập nhật: 2 ngày trước</li>
 </ul>
 <!-- END -->
 
