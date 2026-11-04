@@ -32,7 +32,7 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 <!-- START -->
 <ul>
   <li><strong>.github</strong> – cập nhật: 9 giờ trước</li>
-  <li><strong>zalo-ai-challenge-2026-datamate</strong> – cập nhật: 2 ngày trước</li>
+  <li><strong>zalo-ai-challenge-2026-datamate</strong> – cập nhật: 3 ngày trước</li>
   <li><strong>WorkShop-BuildFirstWebHTMLCSS</strong> – cập nhật: 3 ngày trước</li>
   <li><strong>WorkShop-JsBasic</strong> – cập nhật: 3 ngày trước</li>
 </ul>
