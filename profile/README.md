@@ -31,10 +31,10 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 ## 📅 Hoạt động gần đây
 <!-- START -->
 <ul>
-  <li><strong>.github</strong> – cập nhật: 14 giờ trước</li>
-  <li><strong>WorkShop-BuildFirstWebHTMLCSS</strong> – cập nhật: 5 ngày trước</li>
-  <li><strong>WorkShop-JsBasic</strong> – cập nhật: 5 ngày trước</li>
-  <li><strong>GameTeam-EscapeMom</strong> – cập nhật: 5 ngày trước</li>
+  <li><strong>.github</strong> – cập nhật: 8 giờ trước</li>
+  <li><strong>WorkShop-BuildFirstWebHTMLCSS</strong> – cập nhật: 6 ngày trước</li>
+  <li><strong>WorkShop-JsBasic</strong> – cập nhật: 6 ngày trước</li>
+  <li><strong>GameTeam-EscapeMom</strong> – cập nhật: 6 ngày trước</li>
 </ul>
 <!-- END -->
 
