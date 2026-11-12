@@ -31,8 +31,8 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 ## 📅 Hoạt động gần đây
 <!-- START -->
 <ul>
-  <li><strong>.github</strong> – cập nhật: 4 giờ trước</li>
-  <li><strong>WebsiteTeam-ITClubWeb</strong> – cập nhật: 1 ngày trước</li>
+  <li><strong>.github</strong> – cập nhật: 8 giờ trước</li>
+  <li><strong>WebsiteTeam-ITClubWeb</strong> – cập nhật: 2 ngày trước</li>
   <li><strong>WorkShop-BuildFirstWebHTMLCSS</strong> – cập nhật: 11 ngày trước</li>
   <li><strong>WorkShop-JsBasic</strong> – cập nhật: 11 ngày trước</li>
 </ul>
