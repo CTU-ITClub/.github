@@ -32,9 +32,9 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 <!-- START -->
 <ul>
   <li><strong>.github</strong> – cập nhật: 1 ngày trước</li>
-  <li><strong>WebsiteTeam-ITClubWeb</strong> – cập nhật: 3 ngày trước</li>
-  <li><strong>WorkShop-BuildFirstWebHTMLCSS</strong> – cập nhật: 12 ngày trước</li>
-  <li><strong>WorkShop-JsBasic</strong> – cập nhật: 12 ngày trước</li>
+  <li><strong>WebsiteTeam-ITClubWeb</strong> – cập nhật: 4 ngày trước</li>
+  <li><strong>WorkShop-BuildFirstWebHTMLCSS</strong> – cập nhật: 13 ngày trước</li>
+  <li><strong>WorkShop-JsBasic</strong> – cập nhật: 13 ngày trước</li>
 </ul>
 <!-- END -->
 
