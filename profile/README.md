@@ -31,8 +31,8 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 ## 📅 Hoạt động gần đây
 <!-- START -->
 <ul>
-  <li><strong>Tools-Cloud-Backup</strong> – cập nhật: 2 ngày trước</li>
-  <li><strong>.github</strong> – cập nhật: 8 ngày trước</li>
+  <li><strong>Tools-Cloud-Backup</strong> – cập nhật: 3 ngày trước</li>
+  <li><strong>.github</strong> – cập nhật: 9 ngày trước</li>
   <li><strong>WorkShop-BuildFirstWebHTMLCSS</strong> – cập nhật: 20 ngày trước</li>
   <li><strong>WorkShop-JsBasic</strong> – cập nhật: 20 ngày trước</li>
 </ul>
