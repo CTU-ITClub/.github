@@ -33,8 +33,8 @@ Chúng tôi xây dựng sản phẩm chủ yếu bằng:
 <ul>
   <li><strong>Tools-Cloud-Backup</strong> – cập nhật: 4 ngày trước</li>
   <li><strong>.github</strong> – cập nhật: 10 ngày trước</li>
-  <li><strong>WorkShop-BuildFirstWebHTMLCSS</strong> – cập nhật: 21 ngày trước</li>
-  <li><strong>WorkShop-JsBasic</strong> – cập nhật: 21 ngày trước</li>
+  <li><strong>WorkShop-BuildFirstWebHTMLCSS</strong> – cập nhật: 22 ngày trước</li>
+  <li><strong>WorkShop-JsBasic</strong> – cập nhật: 22 ngày trước</li>
 </ul>
 <!-- END -->
 
